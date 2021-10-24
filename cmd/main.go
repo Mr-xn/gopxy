@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"github.com/sirupsen/logrus"
-	"gopxy"
+	"github.com/elazarl/goproxy"
 	"os"
 )
 
